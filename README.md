@@ -12,7 +12,7 @@ Returns more readable numbers.
 
 [get_pretty_number](get_pretty_number/get_pretty_number.sql) - function.
 
-[get_pretty_number_num_part](get_pretty_number/get_pretty_number_num_part.sql) - function that returns the numeric part of the result produced by the function [get_pretty_number](get_pretty_number.sql). Can be used to determine grammatical cases in Latvian.
+[get_pretty_number_num_part](get_pretty_number/get_pretty_number_num_part.sql) - function that returns the numeric part of the result produced by the function [get_pretty_number](get_pretty_number/get_pretty_number.sql). Can be used to determine grammatical cases in Latvian.
 
 ### getbreaks_classes
 
